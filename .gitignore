@@ -25,6 +25,7 @@
 .idea/**/shelf
 
 # Sensitive or high-churn files
+.idea
 .idea/**/dataSources/
 .idea/**/dataSources.ids
 .idea/**/dataSources.local.xml
@@ -75,3 +76,4 @@ fabric.properties
 # Editor-based Rest Client
 .idea/httpRequests
 
+.idea/inspectionProfiles/
