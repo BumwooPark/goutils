@@ -1,6 +1,5 @@
 # goutils
 
 
-test: testing
-
-kafka: sarama
+###test: testing
+###kafka: sarama
